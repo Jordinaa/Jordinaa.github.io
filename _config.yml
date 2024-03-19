@@ -23,8 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-# The base URL of your site
-# baseurl: ""
+
 url: "https://jordinaa.github.io"
 
 github:
@@ -138,7 +137,9 @@ pwa:
     # shares the same domain name as the current website.
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+      # The base URL of your site
 
+baseurl: ""
 paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------
