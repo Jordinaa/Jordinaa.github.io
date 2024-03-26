@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "07c91263fb0b797f",
+        "id": "5690ae7fbb1887c9",
         "type": "tabs",
         "children": [
           {
-            "id": "f3f621b3d4a0cffb",
+            "id": "211577b62db3174f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/1997-06-17-certifications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e5b84e5cc8edc68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-10-education.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-10-education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-10-education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2024-05-10-education.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e5b84e5cc8edc68",
+  "active": "211577b62db3174f",
   "lastOpenFiles": [
     "_posts/1997-06-17-certifications.md",
     "_posts/2024-05-10-education.md",
