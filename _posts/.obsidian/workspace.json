@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "64438567ab38c99f",
@@ -165,10 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b5789ca4d620701",
+  "active": "24be756a01211164",
   "lastOpenFiles": [
     "2019-08-08-write-a-new-post.md",
     "2024-03-25-biography.md",
+    "1997-06-17-birth.md",
     "2024-03-19-fcfr.md",
     "2019-08-08-text-and-typography.md",
     "2019-08-11-customize-the-favicon.md",
