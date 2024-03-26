@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "78d57cbde0f92633",
+    "type": "split",
+    "children": [
+      {
+        "id": "5811b1e6fd202eeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed15610cd8170af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tags.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09f7c9b0d06d907d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd99affa9fae3dc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c604991c833f50e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92de6c38c1fdc6c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d18a93667324493f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "098a76d15fab81e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f526bf1af736b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1bdb8e005f571ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tags.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa16a8328f59feb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tags.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27373a714558a831",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bdfdb2526e319de4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tags.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ed15610cd8170af0",
+  "lastOpenFiles": [
+    "professional.md",
+    "categories.md",
+    "archives.md",
+    "about.md",
+    "tags.md",
+    "resume.md",
+    "pdf/resume.pdf",
+    "pdf/Jordan_Taranto_Spring_2024.pdf",
+    "pdf",
+    "timeline.md",
+    "professional_timeline.md",
+    "img/tps_vista.png",
+    "img/tps_f16.png",
+    "img/fast_lab_group.png",
+    "img/fast_lab.png",
+    "img/marine.png",
+    "img/IMG_3700.png",
+    "img/region_v.png",
+    "img/ak_rob.png",
+    "img/ak_chainsaw.png",
+    "img/ak_campsite.png",
+    "img/rocket.mov",
+    "img",
+    "untitled folder",
+    "about/pdf/Jordan_Taranto_Spring_2024.pdf",
+    "about/pdf",
+    "about/img",
+    "about"
+  ]
+}

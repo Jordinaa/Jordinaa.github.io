@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83cf1ed28a83ab88",
+            "id": "26854dd62f5481a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-19-fcfr.md",
+                "file": "2019-08-08-write-a-new-post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d64fbe1be1b8650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b5789ca4d620701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-25-biography.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "64438567ab38c99f",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-19-fcfr.md",
+                "file": "2024-03-25-biography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-19-fcfr.md",
+                "file": "2024-03-25-biography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-19-fcfr.md"
+                "file": "2024-03-25-biography.md"
               }
             }
           }
@@ -146,9 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83cf1ed28a83ab88",
+  "active": "0b5789ca4d620701",
   "lastOpenFiles": [
     "2019-08-08-write-a-new-post.md",
+    "2024-03-25-biography.md",
     "2024-03-19-fcfr.md",
     "2019-08-08-text-and-typography.md",
     "2019-08-11-customize-the-favicon.md",
