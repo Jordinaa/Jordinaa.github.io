@@ -11,8 +11,12 @@
             "id": "211577b62db3174f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/1997-06-17-certifications.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/1997-06-17-certifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/1997-06-17-certifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/1997-06-17-certifications.md"
+              }
             }
           }
         ]
@@ -140,12 +148,12 @@
   },
   "active": "211577b62db3174f",
   "lastOpenFiles": [
-    "_posts/1997-06-17-certifications.md",
-    "_posts/2024-05-10-education.md",
+    "_posts/1997-06-17-birth.md",
     "_posts/2024-03-25-biography.md",
+    "_posts/2024-05-10-education.md",
+    "_posts/1997-06-17-certifications.md",
     "assets/img/biography/fast_lab_group.png",
     "assets/img/biography/fast_lab.png",
-    "_posts/1997-06-17-birth.md",
     "assets/img/biography/region_v.png",
     "assets/img/certifications/open_water.png",
     "assets/img/certifications/enriched_air.png",
