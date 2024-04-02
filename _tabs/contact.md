@@ -5,14 +5,14 @@ layout:
 ---
 
 ### Phone
-> 816-699-5373 
+> Feel free to text before a call! `816-699-5373`
 {: .prompt-info }
 
 ### Email
-> JordanTaranto@pm.me 
+> If you don't feel comfortable texting or calling send me an email! `JordanTaranto@pm.me`
 {: .prompt-info }
 
 ### Website
-> [Jordinaa.github.io](Jordinaa.github.io) 
+> Well you obviously made it here already, but redudency is good I guess? [Jordinaa.github.io](Jordinaa.github.io)
 {: .prompt-info }
 
