@@ -1,8 +1,7 @@
 ---
 icon: fa-solid fa-user-astronaut
 order: 2
-layout: page
-pin: "true"
+layout: 
 ---
 
 ### Phone
