@@ -11,8 +11,12 @@
             "id": "3deab66ff58e84c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-02-projects.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4ba7d817386267b8",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2024-04-02-projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2024-04-02-projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2024-04-02-projects.md"
+              }
             }
           }
         ]
@@ -140,19 +149,32 @@
   },
   "active": "3deab66ff58e84c6",
   "lastOpenFiles": [
+    "_site/categories/projects/index.html",
+    "_site/categories/projects",
+    "_site/tags/projects/index.html",
+    "_site/tags/projects",
+    "_site/posts/projects/index.html",
+    "_site/posts/projects",
+    "_site/posts/skills-1/index.html",
+    "_site/posts/skills-1",
+    "_posts/2024-04-02-skills.md",
+    "_posts/2024-04-02-projects.md",
+    "_tabs/contact.md",
+    "_tabs/about.md",
+    "_tabs/resume.md",
+    "_site/contact/index.html",
+    "_site/contact",
+    "_tabs/Contact.md",
+    "_tabs/categories.md",
+    "_tabs/archives.md",
+    "_posts/2024-03-25-biography.md",
+    "_site/Contact/index.html",
+    "_posts/2024-04-02-work-experience.md",
+    "_posts/1997-06-17-birth.md",
     "_posts/1997-06-17-certifications.md",
-    "_site/posts/biography/index.html",
-    "_site/posts/biography",
-    "_site/posts/education/index.html",
-    "_site/posts/education",
-    "_site/posts/certifications/index.html",
-    "_site/posts/certifications",
-    "_site/posts/birth/index.html",
-    "_site/posts/birth",
     "_site/assets/img/certifications/open_water.png",
     "_site/assets/img/certifications/enriched_air.png",
     "_site/assets/img/certifications/advanced_open_water.png",
-    "_site/assets/img/certifications",
     "_site/assets/img/biography/tps_x15.png",
     "_site/assets/img/biography/tps_vista.png",
     "_site/assets/img/biography/tps_f16.png",
@@ -160,9 +182,6 @@
     "_site/assets/img/biography/sprocket.png",
     "_site/assets/img/biography/spa_dinner.png",
     "_site/assets/img/biography/scuba.png",
-    "_site/assets/img/biography/rocket.mov",
-    "_posts/2024-03-10-education.md",
-    "_posts/2024-03-25-biography.md",
-    "_posts/1997-06-17-birth.md"
+    "_posts/2024-03-10-education.md"
   ]
 }
